@@ -6,7 +6,7 @@ a=(input(''))
 time.sleep(1)
 if a=='start':
         print("------------------------------------------------------------------------------------------------------------------------------")
-        print('此脚本是高二16班周汇旋的，GitHub地址')
+        print('GitHub地址https://github.com/Zhouhuixuan/python-changer')
         #正文
 print()
 print('1.长度')
